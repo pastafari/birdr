@@ -20,7 +20,7 @@ Size is always reckoned by comparing the bird with one of the three extremely co
 ![Myna](../assets/birds/images/myna-320.jpg)
 
 ###Crow(43cms)    
-![Crow](../assets/birds/images/crow-320.jpg)
+![Crow](../assets/birds/images/crow-320.JPG)
 
 ---
 <span class="label label-important">Interesting!</span>
