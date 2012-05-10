@@ -1,11 +1,10 @@
 ---
 title: color of the bird
-layout: default
+layout: question
+question: What color did you notice?
+question-number: 3 
 ---
 
-<span class="badge badge-info">3</span> 
-## What color did you notice? 
----
 <p><a href="question-4.html" class="btn btn-primary btn-large btn-brown">Brown or Brown/White</a></p>   
 <p><a href="question-49.html" class="btn btn-primary btn-large btn-inverse">Black</a></p>
 <p><a href="question-73.html" class="btn btn-large">Grey</a></p>
@@ -15,7 +14,6 @@ layout: default
 <p><a href="question-125.html" class="btn btn-primary btn-large btn-warning">Orange/Rufous</a></p>
 <p><a href="question-135.html" class="btn btn-primary btn-large btn-chestnut">Chestnut</a></p>
 ---
-
 <span class="label label-info">Notes</span>
 
 This question refers to the color of feathers and ignores legs and bill. 

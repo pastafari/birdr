@@ -1,0 +1,17 @@
+{% include header.html %}
+  <body>
+		<div class="container-fluid">
+			<div class="row-fluid">
+				{% include sidebar.html %}	
+				<div class="span9">
+						<div class="hero-unit">
+								<span class="badge badge-info">{{ page.question-number }}</span> 
+								<h2>{{ page.question }}</h2>
+								<hr/>
+								{{ content }}
+						</div>
+				</div>	    
+    	</div><!--/.row-fluid-->
+
+    </div><!--/.fluid-container-->
+{% include footer.html %}

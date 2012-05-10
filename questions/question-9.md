@@ -1,11 +1,10 @@
 ---
 title: length of the tail
-layout: default
+layout: question
+question: Was the tail long?
+question-number: 9
 ---
 
-<span class="badge badge-info">9</span> 
-## Was the tail long?
----
 <p><a href="question-10.html" class="btn btn-primary btn-large btn-success">Yes</a></p>   
 <p><a href="question-11.html" class="btn btn-primary btn-large btn-warning">No</a></p>
 ---

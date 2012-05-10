@@ -1,13 +1,13 @@
 ---
-title: land or water
-layout: default
+title: Land or Water?
+layout: question
+question: Was it a land bird or water bird?
+question-number: 1
 ---
 
-<span class="badge badge-info">1</span> 
-## Was it a land bird or water bird? 
----
+
 <p><a href="question-2.html" class="btn btn-primary btn-large">Land</a>    <a href="question-561.html" class="btn btn-primary btn-large">Water</a></p>
----
+
 <span class="label label-info">Notes</span>
 In a great majority of cases ,the answer will be self-evident.  
 
