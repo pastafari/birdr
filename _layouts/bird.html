@@ -43,7 +43,11 @@
 								<h3>Latin: {{ page.latin-name }}</h3>
 								<hr/>
 								<a href="{{ page.image-source-url }}"><img src="{{ page.image-url }}" alt="{{ page.common-name }}" /></a>
-								<p><a href="{{ page.image-source-url }}">Image Credits: {{ page.image-credit }}</a></p>
+								{% if {{page.image-source-url}} and {{page.image-credit}} %}
+									<p><a href="{{ page.image-source-url }}">Image Credits: {{ page.image-credit }}</a></p>
+								{% else %}
+									<p>We couldn't find an image for this bird. Please <a href="/contributing.html">Contribute</a> if you have one</p>
+								{% endif %}
 								<hr/>
 								<p><a href="{{ page.info-url }}" class="btn btn-info btn-primary btn-large">More Info</a></p>
 						</div>

@@ -10,7 +10,7 @@ layout: default
 <p><a href="question-49.html" class="btn btn-primary btn-large btn-inverse">Black</a></p>
 <p><a href="question-73.html" class="btn btn-large">Grey</a></p>
 <p><a href="question-78.html" class="btn btn-primary btn-large">Blue</a></p>
-<p><a href="question-89.html" class="btn btn-primary btn-large btn-success"><span style="color:#FF0">Yellow</span>/Green</a></p>
+<p><a href="question-89.html" class="btn btn-primary btn-large btn-success"><span style="color:#FF0">Yellow/Green</span></a></p>
 <p><a href="question-113.html" class="btn btn-primary btn-large btn-danger">Red/Crimson</a></p>
 <p><a href="question-125.html" class="btn btn-primary btn-large btn-warning">Orange/Rufous</a></p>
 <p><a href="question-135.html" class="btn btn-primary btn-large btn-chestnut">Chestnut</a></p>

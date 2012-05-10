@@ -2909,24 +2909,52 @@ button.close {
    background: -moz-linear-gradient(top, #954535, #954535);
    background: -ms-linear-gradient(top, #954535, #954535);
    background: -o-linear-gradient(top, #954535, #954535);
-   padding: 5px 10px;
+   padding: 12.5px 25px;
    -webkit-border-radius: 8px;
    -moz-border-radius: 8px;
    border-radius: 8px;
    -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
-   box-shadow: rgba(0,0,0,1) 0 1px 0;
 }
 
-.btn-chestnut:hover {
+.btn-chestnut:hover,
+.btn-chestnut.hover {
    border-top-color: #94584b;
    background: #94584b;
-   color: #ccc;
 }
 
-.btn-chestnut:active {
+.btn-chestnut:active,
+.btn-chestnut.active {
    border-top-color: #963724;
    background: #963724;
+}
+
+.btn-brown {
+   border-top: 1px solid #ffffff;
+   background: #8a4603;
+   background: -webkit-gradient(linear, left top, left bottom, from(#964b00), to(#8a4603));
+   background: -webkit-linear-gradient(top, #964b00, #8a4603);
+   background: -moz-linear-gradient(top, #964b00, #8a4603);
+   background: -ms-linear-gradient(top, #964b00, #8a4603);
+   background: -o-linear-gradient(top, #964b00, #8a4603);
+   padding: 12.5px 25px;
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+}
+
+.btn-brown:hover,
+.btn-brown.hover {
+   border-top-color: #964b00;
+   background: #964b00;
+   color: #ffffff;
+}
+.btn-brown:active,
+.btn-brown.active {
+   border-top-color: #964b00;
+   background: #964b00;
 }
 
 button.btn,
