@@ -1,8 +1,7 @@
 ---
 layout: bird
 title: Franklins Wren Warbler
-birds: [franklins-wren-warbler]
-image-url: /assets/birds/images/franklins-wren-warbler.jpg
+image-url: ../assets/birds/images/franklins-wren-warbler.jpg
 image-credit: Jugal Tiwari (Internet Birds Collection) 
 image-source-url: http://ibc.lynxeds.com/photo/grey-breasted-prinia-prinia-hodgsonii/resident-bird
 common-name: Franklins Wren Warbler

@@ -1,7 +1,7 @@
 ---
 layout: bird
 title: Jungle Wren-Warbler (Jungle Prinia)
-image-url: /assets/birds/images/jungle-wren-warbler.jpg
+image-url: ../assets/birds/images/jungle-wren-warbler.jpg
 image-credit: Subhash Ambawane (India Nature Watch)
 image-source-url: http://www.indianaturewatch.net/displayimage.php?id=267370
 common-name: Jungle Wren-Warbler (Jungle Prinia)
