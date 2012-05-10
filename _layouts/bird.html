@@ -38,7 +38,14 @@
 				{% include sidebar.html %}	
 				<div class="span9">
 						<div class="hero-unit">
-							{{ content }}
+								<h2>Best Guess</h2>
+								<h3>Name: {{ page.common-name }}</h3>
+								<h3>Latin: {{ page.latin-name }}</h3>
+								<hr/>
+								<a href="{{ page.image-source-url }}"><img src="{{ page.image-url }}" alt="{{ page.common-name }}" /></a>
+								<p><a href="{{ page.image-source-url }}">Image Credits: {{ page.image-credit }}</a></p>
+								<hr/>
+								<p><a href="{{ page.info-url }}" class="btn btn-info btn-primary btn-large">More Info</a></p>
 						</div>
 				</div>	    
     	</div><!--/.row-fluid-->
