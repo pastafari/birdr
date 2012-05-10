@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flowerpeckers
+title: Warblers
 ---
 
 It could be one of the <highlight>warblers</highlight>. Explore these 3 birds further:
