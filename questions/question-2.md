@@ -1,5 +1,5 @@
 ---
-title: size sparrow myna or crow
+title: Size? (compared to Sparrow/Myna/Crow)
 layout: question
 question: What size was it?
 question-number: 2

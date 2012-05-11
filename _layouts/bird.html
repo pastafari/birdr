@@ -6,6 +6,7 @@
 				<div class="span9">
 						<div class="hero-unit">
 								<h2>Best Guess</h2>
+								{% if {{page.notice}} %}<span class="label label-warning">{{page.notice}}</span>{% endif %}
 								<h3>Name: {{ page.common-name }}</h3>
 								<h3>Latin: {{ page.latin-name }}</h3>
 								<hr/>
